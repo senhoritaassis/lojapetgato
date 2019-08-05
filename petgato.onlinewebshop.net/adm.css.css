@@ -1,0 +1,186 @@
+body {
+       font-size: 18px;
+    line-height: 1.42857;
+    font-family: 'Raleway', sans-serif;
+    background-color:#d9cee2;
+
+    
+}
+body
+{
+	background-color:#d9cee2;
+	
+}
+#caixa1
+{
+	border: 1px solid #c6c6c6;
+	display:flex;
+	justify-content:flex-start;
+}
+#logo1
+{
+	width:300px;
+	height:100px;
+	margin-left:20px;
+}
+.icon
+{
+	display:flex;
+	margin-left:700px;
+}
+#user
+{
+	width:50px;
+	height:50px;
+	margin-top: 25px;
+	margin-left: 36%;
+	margin-right:60px;
+	
+}
+#car
+{
+	width:50px;
+	height:50px;
+	margin-top: 25px;
+	float:right;
+	margin-right:25px;
+}
+#tudo {
+
+    width:1200px;
+    margin:auto;
+    background-color:white;
+	padding-bottom:200px;
+}
+.container {
+	max-width: 766px;
+	margin: 13rem auto 0;
+	text-align: center;
+	color:#666;
+	;
+}
+.bolhinhas {
+	}
+.Login {
+	margin-top:5px;
+	display: flex;
+	justify-content: center;
+	font-size: 38px;
+    color: #1C1C1C;
+}
+
+#imgperfil{
+	width: 28px;
+    height: 28px;
+    fill: #666;
+    display: inline;
+    margin-right: 5px;
+ }
+
+
+ p.para {
+ 	justify-content: center;
+    font-size: 14px;
+    margin-bottom: 20px;
+
+        }
+
+.facebook {
+	width: 391px;
+    box-shadow: 12px 15px 20px rgba(0,0,0,.16);
+    font-size: 22px;
+    background-color: #3B5998;
+    color: #fff;
+    border-radius: 10px;
+    height: 50px;
+}
+.ola {
+    margin: 2rem 0;
+
+
+
+}
+
+.ola.liv {
+	 background-image: linear-gradient(180deg,transparent 10px,#1C1C1C 0,#1C1C1C 12px,transparent 0);
+}
+
+#face {
+	color:#fff;
+}
+
+
+#email {
+	display: block;
+    width: 175px;
+    text-align: left;
+    padding-left: 25%;
+
+
+
+}
+
+.botaoemail {
+	padding: 10px;
+	width: 354px;
+	height: 15px;
+}
+
+body {
+	    font-size: 20px;
+    line-height: 1.42857;
+}
+ .ola>span {
+    
+    background-color: #fff;
+    padding: 0 10px;
+    text-transform: none;
+
+}
+
+
+#senhaa {
+
+	display: block;
+    width: 175px;
+    text-align: left;
+    padding-left: 25%;
+}
+
+
+.senha {
+	padding: 10px;
+	width: 220px;
+height: 15px;
+}
+
+ 
+#
+
+#olaa{
+   
+}
+
+.bot {
+	    width: 219px;
+	    box-shadow: 12px 15px 20px rgba(0,0,0,.16);
+	    font-size: 19px;
+    background-color: #1C1C1C;
+    color: #fff;
+    border-radius: 19px;
+    height: 45px;
+
+}
+
+#iconelogin{
+    width: 50px;
+    float: left;
+    margin-left: 168px;
+}
+
+#divlogin{
+    width: 500px;
+    text-align: center;
+    margin-left: 13px;
+
+}

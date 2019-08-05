@@ -1,0 +1,163 @@
+body
+{
+	background-color:#d9cee2;
+	
+}
+#caixa1
+{
+	border: 1px solid #c6c6c6;
+	display:flex;
+	justify-content:flex-start;
+}
+#logo1
+{
+	width:300px;
+	height:100px;
+	margin-left:20px;
+}
+.icon
+{
+	display:flex;
+	margin-left:700px;
+}
+#user
+{
+	width:50px;
+	height:50px;
+	margin-top: 25px;
+	margin-left: 36%;
+	margin-right:60px;
+	
+}
+#car
+{
+	width:50px;
+	height:50px;
+	margin-top: 25px;
+	float:right;
+	margin-right:25px;
+}
+th
+{
+	border: 1px solid #c6c6c6;
+	padding-top:30px;
+	padding-bottom:30px;
+}
+.tudo {
+	width:1200px;
+	padding-top:1px;
+	padding-bottom:100px;
+	margin:auto;
+	background-color:white;
+	font-family: 'Raleway', sans-serif;
+	font-size:20px;
+}
+.produto
+{
+	text-align:center;
+}
+td
+{
+	border: 1px solid #c6c6c6;
+	padding:10px;
+}
+.table
+{
+	margin-bottom:50px;
+	padding:30px;
+}
+.produtos1
+{
+	display:flex;
+	justify-content:space-around;
+}
+.caixaProduto
+{
+	display:flex;
+	justify-content:space-around;
+	border: 1px solid #c6c6c6;
+	padding:10px;
+	margin-bottom:50px;
+	
+}
+.image
+{
+	width:100px;
+}
+.desc
+{
+	padding-left:10px;
+	padding-top:10px;
+	width:150px;
+	
+}
+
+.produtos2
+{
+	display:flex;
+	justify-content:space-around;
+}
+.caixaProdutos
+{
+	display:flex;
+	justify-content:space-around;
+	border: 1px solid #c6c6c6;
+	padding:10px;
+	margin-bottom:50px;
+	
+}
+.images
+{
+	width:170px;
+}
+.alt
+{
+	width:20px;
+	height:20px;
+}
+.senha 
+{
+	padding: 10px;
+	width: 220px;
+	height: 15px;
+}
+.opcao
+{
+	width:40px;
+	height:40px;
+	margin-left:20px;
+	padding:10px;
+}
+.escolha
+{
+	text-align:center;
+}
+.op
+{
+	display:flex;
+	justify-content:center;
+}
+.opp
+{
+	margin-top:50px;
+}
+#botaoo{
+    display: block;
+    width: 98%;
+	color: white;
+    background-color:purple;
+    border:10px solid purple;
+	padding:5px;
+	border-radius:4px 4px;
+	margin:auto;
+	margin-top:10px;
+}
+.conf
+{
+	padding-top:65px;
+	width:300px;
+}
+#senha
+{
+	margin-top:70px;
+}

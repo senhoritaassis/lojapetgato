@@ -1,0 +1,77 @@
+body {
+	font-family: 'Raleway', sans-serif;
+	font-size:20px;
+    background-color:#d9cee2;
+	padding-top:10px;
+	
+}
+.panel-default
+{
+	width:1200px;
+	margin:auto;
+}
+.tudo
+{
+
+	background-color:white;
+	width:1200px;
+	margin:auto;
+	border-bottom:60px solid white;
+	
+}
+#caixa1
+{
+	border: 1px solid #c6c6c6;
+	display:flex;
+	justify-content:flex-start;
+	width:1200px;
+}
+#logo1
+{
+	width:300px;
+	height:100px;
+	margin-left:20px;
+}
+.icon
+{
+	display:flex;
+	margin-left:700px;
+}
+#user
+{
+	width:50px;
+	height:50px;
+	margin-top: 25px;
+	margin-left: 36%;
+	margin-right:60px;
+	
+}
+#car
+{
+	width:50px;
+	height:50px;
+	margin-top: 25px;
+	float:right;
+	margin-right:25px;
+}
+#botao{
+    display: block;
+    width: 100%;
+	color: white;
+    background-color:purple;
+    border-color:purple;
+	padding:10px;
+}
+.panel-title 
+{
+	text-align:center;
+}
+#voltar
+{
+	padding:10px;
+	text-align:center;
+	border: 1px solid #c6c6c6;
+	background-color:white;
+}
+
+    

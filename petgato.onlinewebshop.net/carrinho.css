@@ -1,0 +1,240 @@
+body
+{
+	background-color:#d9cee2;
+	font-family: 'Raleway', sans-serif;
+	
+}
+#caixa1
+{
+	border: 1px solid #c6c6c6;
+	display:flex;
+	justify-content:flex-start;
+}
+#logo1
+{
+	width:300px;
+	height:100px;
+	margin-left:20px;
+}
+.icon
+{
+	display:flex;
+	margin-left:700px;
+}
+#user
+{
+	width:50px;
+	height:50px;
+	margin-top: 25px;
+	margin-left: 36%;
+	margin-right:60px;
+	
+}
+#car
+{
+	width:50px;
+	height:50px;
+	margin-top: 25px;
+	float:right;
+	margin-right:25px;
+}
+#tudo {
+	width:1200px;
+	padding-top:1px;
+	padding-bottom:100px;
+	margin:auto;
+	background-color:white;
+	font-size:20px;
+}
+
+.imagens {
+
+	width: 200px;
+	height: 200px;
+	display: inline;
+}
+
+.nm{
+	display:inline;
+	text-align: center;
+	margin-bottom: 45px;
+
+}
+
+
+
+#produtos{
+	text-align: center;
+	display:flex;
+	justify-content: space-between;
+	padding:40px;
+	
+}
+
+.botao{
+	width: 235px;
+  
+    font-size: 22px;
+    background-color: #606B6B;
+    color: #fff;
+    border-radius: 10px;
+    height: 52px;
+    border:0;
+	
+}
+h2 {
+text-align: center;
+font-size: 50px;
+}
+#pedido
+{
+	font-size: 30px;
+	display:flex;
+	justify-content: space-between;
+	margin-bottom: 45px;
+	font-family: 'Raleway', sans-serif;
+	
+	
+}
+
+p{
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+
+}
+.resumo{
+	border:solid 1px #c6c6c6;
+	font-size: 28px;
+    margin-bottom: 8px;
+    height:520px; 
+    width:40%;
+	margin: auto;
+	padding: 4px 0 8px 0;
+	background-color: #ffffff;
+	text-align:center;
+
+
+
+}
+
+.botao{
+	margin: 0 auto 10px;
+    clear: both;
+
+}
+.res{
+	    
+}
+.conteudo {
+
+    width: 980px;
+    margin: 0 auto 10px;
+    clear: both;
+    min-height: 474px;
+    background: #fff;
+    padding: 10px;
+    margin-bottom: 23px;
+}
+
+.conteudo > p:first-child {
+
+    font-size: 14px;
+    /* font-weight: bold; */
+    text-transform: uppercase;
+    text-indent: 5px;
+    }
+    .conteudo > p:first-child {
+ 
+    font-size: 14px;
+    /* font-weight: bold; */
+    text-transform: uppercase;
+    text-indent: 5px;
+    padding: 4px 0 8px 0;
+    border-bottom: 1px solid #c6c6c6;
+    margin-bottom: 15px;
+}
+.container {
+    margin-right: auto;
+    /* margin-left: auto; */
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+ h2 {
+    /* font-size: 36px; */
+    /* font-weight: 300; */
+    background: url(https://cdn.leancommerce.com.br/vibestore/arquivos/title-bg.png) no-repeat bottom;
+    padding-bottom: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 40px 0;
+    font-family: 'Raleway', sans-serif;
+    border: none;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 1.1;
+    color: inherit;
+
+
+}
+* {
+    box-sizing: border-box;
+}
+.produto {
+	
+   
+    /* min-height: 20px; */
+    /* padding: 45px; */
+    margin-bottom: 20px;
+    border: 1px solid #c6c6c6;
+    overflow: hidden;
+    clear: both;
+    /* width: 969px; */
+    padding-left: 14px;
+    /* padding-right: 10px; */
+    margin-bottom: 1px;
+    background: #ffffff;
+	margin:25px;
+	
+}
+
+    
+}
+
+#cama{
+	border-bottom
+}
+
+    h3 {
+    	font-size: 30px;
+    	font-family: 'Raleway', sans-serif;
+    }
+.title {
+	font-size: 45px;
+}
+#i {
+	text-align: center;
+}
+
+#divlogin{
+    width: 500px;
+    text-align: center;
+    margin-left: 13px;
+
+}
+.mais
+{
+	border: 1px solid #c6c6c6;
+	margin:25px;
+}
+.image {
+
+	width: 200px;
+	height: 200px;
+	display: inline;
+	margin-left:50px;	
+}
+
